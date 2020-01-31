@@ -4,6 +4,10 @@ export default class Porfolio extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="portfolio">
+      <div id="modal-01" className="modal-center mfp-hide row">
+                <div className="one column">
+                <iframe width="600" height="337" src="https://www.youtube.com/embed/trnu-wZ4TiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                </div>
       <div className="row">
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>

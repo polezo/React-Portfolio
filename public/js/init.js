@@ -105,10 +105,11 @@
     $('.item-wrap a').magnificPopup({
 
        type:'inline',
-       fixedContentPos: false,
+       
        removalDelay: 200,
        showCloseBtn: false,
-       mainClass: 'mfp-fade'
+       mainClass: 'mfp-fade',
+       alignTop:false
 
     });
 

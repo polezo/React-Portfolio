@@ -78,9 +78,9 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Staying Sharp",
+        "description":"Website",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
       },
       {
         "name":"project2",
