@@ -89,6 +89,11 @@
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
+    /* Modals
+   ------------------------------------------------------------------- */
+   .video-text {
+      padding-top:10px;
+   }
 
 }
 

@@ -357,12 +357,18 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .modal-center {
-   background-color:blue;
+   background-color:white;
+   padding: 15px 10px 10px 10px;
 }
 
 .modal-video {
- 
+   height:200px;
+   top:10px;
 } 
+
+.video-text {
+  display:block;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }

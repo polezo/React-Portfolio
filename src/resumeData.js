@@ -64,7 +64,7 @@ let resumeData = {
         "Achievements":["Planned and executed digital communication strategies for high profile public health initiatives on behalf of the CDC and National Institutes of Health","Generated over 200 million earned and paid impressions to promote flu vaccination initiatives, producing an extremely cost effective campaign effort for CDC","Analyzed and evaluated digital campaign results that helped optimize campaigns and provide industry leading results for clients"]
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"I wear many hats",
     "skills":[
       {
         "skillname":"HTML5"
