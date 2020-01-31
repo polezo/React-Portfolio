@@ -384,6 +384,7 @@ ul#nav li.current a { color: #F06000; }
 .modal-video {
    height:200px;
    top:10px;
+   padding-bottom:20px;
 } 
 
 .video-text {

@@ -22,7 +22,7 @@ export default class Header extends Component {
             <div className="banner-text">
                <h1 className="responsive-headline">Hi, I'm {resumeData.name}. </h1>
                <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>{resumeData.roleDescription}
-               </h3>
+               </h3><h3 style={{color:'#fff', fontFamily:'sans-serif '}}>I also have some sick dance moves. ♪ ♫ ᕕ( ͡° ͜ʖ ͡°)ᕗ ♫ ♪ </h3>
                <hr/>
                <ul className="social">
                   {

@@ -6,9 +6,11 @@ export default class Porfolio extends Component {
       <section id="portfolio">
       <div id="modal-0" className="modal-center mfp-hide row">
                 <div className="five columns modal-video">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/trnu-wZ4TiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <a href="https://atfmakes.com/reacttowork/"><img width="100%" src="https://www.atfmakes.com/1/images/slides/ReactToWork.png" alt="ReactToWork"></img></a>
                 </div>
-                <p className="video-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <h1 className="video-text">ReactToWork</h1>
+                
+<p>A Job Board for React Engineers, built in React with a Ruby on Rails backend. This is an app I built with my friend<a href="https://www.linkedin.com/in/chungcha/"> Charlie Chung</a> because we saw a need for a React centric job board that was both well-populated with jobs and made jobs easy to save for later application. We designed and developed the app from the ground up. Try it out for yourself <a href="https://atfmakes.com/reacttowork/">here.</a></p>
                 </div>
       <div className="row">
         <div className="twelve columns collapsed">

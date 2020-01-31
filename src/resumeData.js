@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"atyreefinch",
     "skypeid": "atyreefinch",
-    "roleDescription": "I specialize in creative digital content, web development and AR/VR. My approach to digital production, design and development is supported by strong business acumen and my ability to think both strategically and in detail. I also have some sick dance moves. ♪ ♫ ᕕ( ͡° ͜ʖ ͡°)ᕗ ♫ ♪ ",
+    "roleDescription": "I specialize in creative digital content, web development and AR/VR. My approach to digital production, design and development is supported by strong business acumen and my ability to think both strategically and in detail.",
     "socialLinks":[
         {
           "name":"linkedin",
