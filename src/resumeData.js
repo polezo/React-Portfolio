@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"atyreefinch",
     "skypeid": "atyreefinch",
-    "roleDescription": "I specialize in creative digital content, web development and AR/VR. My approach to digital production, design and development is supported by strong business acumen, robust technical and project management skills and my ability to think both strategically and in detail. I also have some sick dance moves. ♪ ♫ ᕕ( ͡° ͜ʖ ͡°)ᕗ ♫ ♪ ",
+    "roleDescription": "I specialize in creative digital content, web development and AR/VR. My approach to digital production, design and development is supported by strong business acumen and my ability to think both strategically and in detail. I also have some sick dance moves. ♪ ♫ ᕕ( ͡° ͜ʖ ͡°)ᕗ ♫ ♪ ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,39 +22,46 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I specialize in creative digital content, web development and AR/VR. My approach to digital production, design and development is supported by strong business acumen, robust technical and project management skills and my ability to think both strategically and in detail.",
+    "aboutme":"Over the past 8 years I have specialized in creative development, SEO and SEM, and content marketing for mission driven clients like AARP and the CDC. My experience includes a proven track record of developing new campaigns, websites, videos and interactive experiences, a history of testing and refining content and campaigns to ensure they deliver industry leading results, and an MBA with a specialization in digital media management.",
     "address":"Washington DC",
     "website":"https://atfmakes.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"Flatiron School",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"January",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Full Stack Web Development, Ruby on Rails and JavaScript Program"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"St. Edwards University",
+        "specialization":"Masters of Business Administration",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2012",
+        "Achievements":"MBA with a Specialization in Digital Media Management"
+      },
+      {
+        "UniversityName":"Trinity University",
+        "specialization":"Bachelor of Arts",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2006",
+        "Achievements":"English Major, Political Science Minor"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"AARP",
+        "specialization":"Web Producer",
+        "MonthOfLeaving":"October 2015",
+        "YearOfLeaving":"- October 2019",
+        "Achievements":["Planned and implemented platform and content strategies for Staying Sharp, AARP’s brain health platform"," Responsible for SEO and SEM as well as building new content in the CMS", "Collaborated with research group to A/B test new features and optimize the user experience","Worked with high-visibility content partners and vendors to write and produce videos and other content which both support public health and deliver key organizational conversions"]
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Westat",
+        "specialization":"Digital and Social Media Specialist",
+        "MonthOfLeaving":"Feb 2013",
+        "YearOfLeaving":"- October 2015",
+        "Achievements":["Planned and executed digital communication strategies for high profile public health initiatives on behalf of the CDC and National Institutes of Health","Generated over 200 million earned and paid impressions to promote flu vaccination initiatives, producing an extremely cost effective campaign effort for CDC","Analyzed and evaluated digital campaign results that helped optimize campaigns and provide industry leading results for clients"]
       }
     ],
     "skillsDescription":"Your skills here",

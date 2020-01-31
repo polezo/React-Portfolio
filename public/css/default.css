@@ -118,6 +118,8 @@ table {
    border-spacing: 0;
 }
 
+ul.achievements-list {list-style-type: circle;}
+
 
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
