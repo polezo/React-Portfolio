@@ -7,7 +7,7 @@ export default class ContactUs extends Component {
           <div className="row section-head">
             <div className="ten columns">
               <p className="lead">
-              Thanks for visiting. Feel free to reach out anytime by emailing <strong>atyreefinch AT gmail dot com</strong> or using the social links below
+              Thanks for visiting. Feel free to reach out anytime by emailing <strong>atyreefinch AT gmail DOT com</strong> or by using the social links below
               </p>
             </div>
           </div>

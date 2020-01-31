@@ -70,11 +70,28 @@ let resumeData = {
         "skillname":"HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Reactjs"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"Unity"
+      },
+      {
+        "skillname":"CSharp"
+      },
+    ],
+    "skills2":[
+      {
+        "skillname":"SEO"
+      },
+      {
+        "skillname":"CreativeSuite"
+      },
+      {
+        "skillname":"Production"
+      },
+      {
+        "skillname":"HatWearing"
+      },
     ],
     "portfolio":[
       {
