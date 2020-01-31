@@ -64,7 +64,7 @@ let resumeData = {
         "Achievements":["Planned and executed digital communication strategies for high profile public health initiatives on behalf of the CDC and National Institutes of Health","Generated over 200 million earned and paid impressions to promote flu vaccination initiatives, producing an extremely cost effective campaign effort for CDC","Analyzed and evaluated digital campaign results that helped optimize campaigns and provide industry leading results for clients"]
       }
     ],
-    "skillsDescription":"I wear many hats",
+    "skillsDescription":"I've worn many hats in my career",
     "skills":[
       {
         "skillname":"HTML5"
@@ -95,24 +95,44 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Staying Sharp",
-        "description":"Website",
+        "name":"ReactToWork",
+        "description":"A Job Board for React Engineers, built with React",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/ReactToWork.png"
+      },
+      {
+        "name":"MemoryPalace AR",
+        "description":"An Augmented Reality Memory Game Prototype for AARP, built in Unity",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/memoryPalaceAR.jpg"
+      },
+      {
+        "name":"LetterLagoon",
+        "description":"A Spelling and Phonics iOS App Built with React Native",  
         "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"NumberCommander",
+        "description":"A Math Game for Elementary Age Kids Built with ThreeJS",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/NumberCommander.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"MetaverseOnDemand",
+        "description":"An AR Search Engine for Google Poly Models",  
+        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"JetShare Explainer",
+        "description":"An Explainer Video for JetShare",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
+      },
+      {
+        "name":"Martin Yan Recipe Videos",
+        "description":"Recipe Videos for Staying Sharp",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
+      },
+      {
+        "name":"Words Before Rumble",
+        "description":"Kinetic Typography of one of Mohammed Ali's Best Speaches",
+        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
       }
     ],
     "testimonials":[

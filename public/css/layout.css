@@ -390,6 +390,10 @@ ul#nav li.current a { color: #F06000; }
   display:block;
 }
 
+.smaller-text {
+   font-size: .95em;
+}
+
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
@@ -521,6 +525,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   height:120px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
@@ -838,6 +843,7 @@ call-to-action .button {
    letter-spacing: 3px;
    color: #EBEEEE;
    margin-bottom: 6px;
+   
 }
 #contact h1 span { display: none; }
 #contact h1:before {

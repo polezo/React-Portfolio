@@ -4,7 +4,7 @@ export default class Porfolio extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="portfolio">
-      <div id="modal-01" className="modal-center mfp-hide row">
+      <div id="modal-0" className="modal-center mfp-hide row">
                 <div className="five columns modal-video">
                 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/trnu-wZ4TiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
@@ -12,14 +12,14 @@ export default class Porfolio extends Component {
                 </div>
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
+          <h1>Here's some of my work. </h1>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
-            resumeData.portfolio && resumeData.portfolio.map((item)=>{
+            resumeData.portfolio && resumeData.portfolio.map((item,index)=>{
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a href={`#modal-${index}`}>
                       <img src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
@@ -34,6 +34,7 @@ export default class Porfolio extends Component {
             })
           }
           </div>
+          <h1>Want to see more? Drop me a line anytime using the contact info below.</h1>
         </div>
       </div>
   </section>
