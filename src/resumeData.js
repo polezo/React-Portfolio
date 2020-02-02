@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"atyreefinch",
     "skypeid": "atyreefinch",
-    "roleDescription": "developer, writer, creative producer, maker of internet stuff",
+    "roleDescription": "dad, developer, animator, creative producer, maker of internet stuff",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Over the past 8 years I have specialized in creative development, SEO and SEM, and content marketing for mission driven clients like AARP and the CDC. My experience includes a proven track record of developing new campaigns, websites, videos and interactive experiences, a history of testing and refining content and campaigns to ensure they deliver industry leading results, and an MBA with a specialization in digital media management.",
+    "aboutme":"Over the past 8 years I have specialized in creative development, content marketing, and web production for mission driven clients like AARP and the CDC. My experience includes a proven track record of developing new campaigns, websites, videos and interactive experiences, a history of testing and refining content and campaigns to ensure they deliver industry leading results, and an MBA with a specialization in digital media management.",
     "address":"Washington DC",
     "website":"https://atfmakes.com",
     "education":[
@@ -143,13 +143,13 @@ let resumeData = {
         "imgurl":"https://atfmakes.com/img/JetShareSplash.jpg"
       },
       {
-        "name":"Blue Flame Demon",
-        "description":"An Instagram AR Mask",
+        "name":"Blue Demon Mask",
+        "description":"An Instagram AR Effect",
         "imgurl":"https://atfmakes.com/img/FlameDemonSplash.jpg"
       },
       {
-        "name":"Bolt Pattern Pro Commercial",
-        "description":"Animaton for Bolt Pattern Pro",
+        "name":"Bolt Pattern Pro",
+        "description":"A Commercial for the Bolt Patter Pro. Animated in After Effects",
         "imgurl":"https://atfmakes.com/img/BoltPatternSplash.jpg"
       },
       {
@@ -159,7 +159,7 @@ let resumeData = {
       },
       {
         "name":"Words Before Rumble",
-        "description":"Kinetic Typography of one of Mohammed Ali's Best Speaches",
+        "description":"Kinetic Typography of one of Mohammed Ali's Best Speeches",
         "imgurl":"https://atfmakes.com/img/AliSplash.jpg"
       },
       
