@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"atyreefinch",
     "skypeid": "atyreefinch",
-    "roleDescription": "I specialize in creative digital content, web development and AR/VR. My approach to digital production, design and development is supported by strong business acumen and my ability to think both strategically and in detail.",
+    "roleDescription": "developer, writer, creative producer, maker of internet stuff",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -97,43 +97,44 @@ let resumeData = {
       {
         "name":"ReactToWork",
         "description":"A Job Board for React Engineers, built with React",
-        "imgurl":"https://www.atfmakes.com/1/images/slides/ReactToWork.png"
-      },
-      {
-        "name":"MemoryPalace AR",
-        "description":"An Augmented Reality Memory Game Prototype for AARP, built in Unity",
-        "imgurl":"https://www.atfmakes.com/1/images/slides/memoryPalaceAR.jpg"
+        "imgurl":"https://atfmakes.com/img/ReactToWorkSplash2.jpg"
       },
       {
         "name":"LetterLagoon",
         "description":"A Spelling and Phonics iOS App Built with React Native",  
-        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
+        "imgurl":"https://atfmakes.com/img/LetterLagoonSplash.jpg"
       },
       {
         "name":"NumberCommander",
         "description":"A Math Game for Elementary Age Kids Built with ThreeJS",
-        "imgurl":"https://www.atfmakes.com/1/images/slides/NumberCommander.jpg"
+        "imgurl":"https://atfmakes.com/img/NumberCommanderSplash2.jpg"
+      },
+      {
+        "name":"MemoryPalace AR",
+        "description":"An Augmented Reality Memory Game Prototype for AARP, built in Unity",
+        "imgurl":"https://atfmakes.com/img/MemoryPalaceSplash2.jpg"
       },
       {
         "name":"MetaverseOnDemand",
         "description":"An AR Search Engine for Google Poly Models",  
-        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
-      },
-      {
-        "name":"JetShare Explainer",
-        "description":"An Explainer Video for JetShare",
-        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
+        "imgurl":"https://atfmakes.com/img/MetaVerseARSplash2.jpg"
       },
       {
         "name":"Martin Yan Recipe Videos",
         "description":"Recipe Videos for Staying Sharp",
-        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
+        "imgurl":"https://atfmakes.com/img/MartinYanSplash.jpg"
+      },
+      {
+        "name":"JetShare Explainer",
+        "description":"An Explainer Video for JetShare",
+        "imgurl":"https://atfmakes.com/img/JetShareSplash.jpg"
       },
       {
         "name":"Words Before Rumble",
         "description":"Kinetic Typography of one of Mohammed Ali's Best Speaches",
-        "imgurl":"https://www.atfmakes.com/1/images/slides/StayingSharp.png"
-      }
+        "imgurl":"https://atfmakes.com/img/AliSplash.jpg"
+      },
+      
     ],
     "testimonials":[
       {

@@ -12,8 +12,8 @@ export default class Header extends Component {
             <ul id="nav" className="nav">
                <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                <li><a className="smoothscroll" href="#about">About</a></li>
-             <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#portfolio">Portfolio</a></li>
+             <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul>
          </nav>
@@ -21,8 +21,8 @@ export default class Header extends Component {
          <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">Hi, I'm {resumeData.name}. </h1>
-               <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>{resumeData.roleDescription}
-               </h3><h3 style={{color:'#fff', fontFamily:'sans-serif '}}>I also have some sick dance moves. ♪ ♫ ᕕ( ͡° ͜ʖ ͡°)ᕗ ♫ ♪ </h3>
+               <h2 style={{color:'#fff', fontFamily:'sans-serif '}}>{resumeData.roleDescription}
+               </h2><h3 style={{color:'#fff', fontFamily:'sans-serif '}}>♪ ♫ ᕕ( ͡° ͜ʖ ͡°)ᕗ ♫ ♪ </h3>
                <hr/>
                <ul className="social">
                   {
