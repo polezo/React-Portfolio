@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .unity {
-  	width: 75%;
+  	width: 90%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -357,7 +357,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .production {
-   width: 90%;
+   width: 95%;
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }

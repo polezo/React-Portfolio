@@ -67,42 +67,55 @@ let resumeData = {
     "skillsDescription":"I've worn many hats in my career",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML5",
+        "skilldisplay":"HTML5"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Reactjs",
+        "skilldisplay":"Reactjs"
       },
       {
-        "skillname":"Unity"
+        "skillname":"Unity",
+        "skilldisplay":"Unity"
       },
       {
-        "skillname":"CSharp"
+        "skillname":"CSharp",
+        "skilldisplay":"C#"
       },
     ],
     "skills2":[
       {
-        "skillname":"SEO"
+        "skillname":"CreativeSuite",
+        "skilldisplay":"Adobe Creative Suite"
       },
       {
-        "skillname":"CreativeSuite"
+        "skillname":"SEO",
+        "skilldisplay":"Content Marketing"
       },
       {
-        "skillname":"Production"
+        "skillname":"Production",
+        "skilldisplay":"Creative Production"
       },
       {
-        "skillname":"HatWearing"
+        "skillname":"HatWearing",
+        "skilldisplay":"Hat Wearing"
       },
     ],
     "portfolio":[
+      {
+        "name":"LetterLagoon",
+        "description":"A Spelling and Phonics iOS App Built with React Native",  
+        "imgurl":"https://atfmakes.com/img/LetterLagoonSplash.jpg"
+      },
       {
         "name":"ReactToWork",
         "description":"A Job Board for React Engineers, built with React",
         "imgurl":"https://atfmakes.com/img/ReactToWorkSplash2.jpg"
       },
       {
-        "name":"LetterLagoon",
-        "description":"A Spelling and Phonics iOS App Built with React Native",  
-        "imgurl":"https://atfmakes.com/img/LetterLagoonSplash.jpg"
+        "name":"BrewQueue",
+        "description":"IMDB for Breweries, Built with Ruby on Rails",  
+        "imgurl":"https://atfmakes.com/img/BrewQueueSplash.jpg"
       },
       {
         "name":"NumberCommander",
@@ -121,13 +134,28 @@ let resumeData = {
       },
       {
         "name":"Martin Yan Recipe Videos",
-        "description":"Recipe Videos for Staying Sharp",
+        "description":"Brain Friendly Recipe Videos for Staying Sharp",
         "imgurl":"https://atfmakes.com/img/MartinYanSplash.jpg"
       },
       {
         "name":"JetShare Explainer",
-        "description":"An Explainer Video for JetShare",
+        "description":"An Explainer Animation for JetShare",
         "imgurl":"https://atfmakes.com/img/JetShareSplash.jpg"
+      },
+      {
+        "name":"Blue Flame Demon",
+        "description":"An Instagram AR Mask",
+        "imgurl":"https://atfmakes.com/img/FlameDemonSplash.jpg"
+      },
+      {
+        "name":"Bolt Pattern Pro Commercial",
+        "description":"Animaton for Bolt Pattern Pro",
+        "imgurl":"https://atfmakes.com/img/BoltPatternSplash.jpg"
+      },
+      {
+        "name":"CDC Motion Infographics",
+        "description":"An Award Winning Series of Gifs for CDC",
+        "imgurl":"https://atfmakes.com/img/CDC-NIVWSplash.gif"
       },
       {
         "name":"Words Before Rumble",

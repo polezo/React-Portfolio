@@ -21,11 +21,11 @@ class Skills extends React.Component {
      
        <ul className="skills">
          {
-           resumeData.skills && resumeData.skills.map((item) => {
+           resumeData.skills && resumeData.skills.map((item,index) => {
              return(
-               <li>
+               <li key={index}>
                <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-               </span><em>{item.skillname}</em>
+               </span><em>{item.skilldisplay}</em>
                </li>
              )
            })
@@ -48,11 +48,11 @@ class Skills extends React.Component {
         
           <ul className="skills">
             {
-              resumeData.skills2 && resumeData.skills2.map((item) => {
+              resumeData.skills2 && resumeData.skills2.map((item,index) => {
                 return(
-                  <li>
+                  <li key={index}>
                   <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-                  </span><em>{item.skillname}</em>
+                  </span><em>{item.skilldisplay}</em>
                   </li>
                 )
               })
