@@ -14,7 +14,7 @@ class Skills extends React.Component {
         <div className="four columns minus-padding-l">
         
         <p className="smaller-text">
-        {`${resumeData.skillsDescription}. `}<strong className="smaller-text">See more <a href="https://atfmakes.com/resume.pdf" target="_blank">here</a>.</strong>
+        {`${resumeData.skillsDescription}. `}<strong className="smaller-text">See more <a href="https://atfmakes.com/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.</strong>
         </p>
      
      <div className="bars">
