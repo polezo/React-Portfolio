@@ -17,11 +17,11 @@ export default class Porfolio extends Component {
 
                 <div id="modal-0" className="modal-center mfp-hide row">
                 <div className="five columns modal-video">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/w-2N2BCxono" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowfullscreen"></iframe>
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/MUpAzyjMhyA" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowfullscreen"></iframe>
                 </div>
                 <h3 className="video-text">LetterLagoon <span className="modal-links"> • <a href="https://github.com/polezo/LetterLagoon" target="_blank">github</a> </span></h3>
                 
-<p>This is a spelling and phonics game for elementary school children. Built in React Native, it utilizes Redux for state management and AirBNB's Lottie framework for animations. It has 2 different game modes, over 50 words, 25+ unique animations, 100+ audio elements, and a lot of happy playtesting from my daughter :).</p>
+<p>This is a spelling and phonics game for elementary school children. Built in React Native, it utilizes Redux for state management and AirBNB's Lottie framework for animations. It has 2 different game modes, over 50 words, 25+ unique animations, 100+ audio elements, and a lot of happy playtesting from my daughter :). See more detail on the animations by viewing <a href="https://www.youtube.com/watch?v=w-2N2BCxono" target="_blank">this video.</a></p>
                 </div>
 
 

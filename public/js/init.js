@@ -107,7 +107,7 @@
        type:'inline',
        
        removalDelay: 200,
-       showCloseBtn: false,
+       showCloseBtn: "true",
        mainClass: 'mfp-fade',
        alignTop:false
 

@@ -19,6 +19,11 @@
       margin: 0 auto 12px auto;
    }
 
+   .mfp-close-btn-in .mfp-close {
+      color: #333333; 
+      padding-right:80px; 
+      }
+
 }
 
 /* screenwidth less than 900px
@@ -49,6 +54,11 @@
       font: 11px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
+
+   .mfp-close-btn-in .mfp-close {
+      color: #333333; 
+      padding-right:80px; 
+      }
 
 
    /* About Section
@@ -120,6 +130,11 @@
    .video-text {
       padding-top:30px;
    }
+
+   .mfp-close-btn-in .mfp-close {
+      color: #333333; 
+      padding-right:80px; 
+      }
 
 
    /* mobile navigation
@@ -371,6 +386,12 @@
   -------------------------------------------------------------------------- */
 
 @media only screen and (max-width: 480px) {
+
+   .mfp-close-btn-in .mfp-close {
+      color: #333333; 
+      padding-right:80px; 
+      }
+
 
    .video-text {
       padding-top:30px;
