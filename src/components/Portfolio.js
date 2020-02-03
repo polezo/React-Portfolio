@@ -132,7 +132,7 @@ their browser. It has toggles to view from multiple angles and really check out 
                 <div key={index} className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href={`#modal-${index}`}>
-                      <img src={`${item.imgurl}`} className="item-img"/>
+                      <img src={`${item.imgurl}`} className="item-img" alt={`${item.name}-thumbnail`}/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>

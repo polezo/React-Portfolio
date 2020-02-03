@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"atyreefinch",
     "skypeid": "atyreefinch",
-    "roleDescription": "dad, developer, animator, creative producer, maker of internet stuff",
+    "roleDescription": "dad, developer, creative producer, maker of internet stuff",
     "socialLinks":[
         {
           "name":"linkedin",
