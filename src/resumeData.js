@@ -62,6 +62,13 @@ let resumeData = {
         "MonthOfLeaving":"Feb 2013",
         "YearOfLeaving":"- October 2015",
         "Achievements":["Planned and executed digital communication strategies for high profile public health initiatives on behalf of the CDC and National Institutes of Health","Generated over 200 million earned and paid impressions to promote flu vaccination initiatives, producing an extremely cost effective campaign effort for CDC","Analyzed and evaluated digital campaign results that helped optimize campaigns and provide industry leading results for clients"]
+      },
+      {
+        "CompanyName":"bandLENS",
+        "specialization":"Producer",
+        "MonthOfLeaving":"Mar 2011",
+        "YearOfLeaving":"- May 2015",
+        "Achievements":["Produced commercials, music videos communication strategies, promotional material and original content","Designed and animated motion graphic content that integrated with clients’ branding opportunities","Coordinated with clients to generate RFPs and corresponding bids for video production requests"]
       }
     ],
     "skillsDescription":"I've worn many hats in my career",
