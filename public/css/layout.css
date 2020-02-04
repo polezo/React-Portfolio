@@ -442,6 +442,10 @@ ul#nav li.current a { color: #F06000; }
    font-size: .93em;
 }
 
+.smaller-text2 {
+   font-size: .85em;
+}
+
 @-moz-keyframes csuite {
   0%   { width: 0px;  }
   100% { width: 85%;  }

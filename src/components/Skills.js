@@ -57,8 +57,8 @@ class Skills extends React.Component {
 
         <div className="four columns minus-padding-l">
         
-        <p className="smaller-text">
-        Progress bars are <i>mostly </i>just for fun CSS shouldn't be taken <i>too</i> literally.<strong onClick={this.toggleSkills} className="smaller-text" style={{"cursor":"pointer","color":"#11ABB0"}}> Toggle Skills.</strong>
+        <p className="smaller-text2">
+        Note: Progress bars are <i>in-part </i> an excuse for some fun CSS--not be taken <i>100%</i> literally :-P. <strong onClick={this.toggleSkills} className="smaller-text2" style={{"cursor":"pointer","color":"#11ABB0"}}> Toggle Skills</strong>  
         </p>
         
         <div className="bars">

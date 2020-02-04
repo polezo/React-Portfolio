@@ -71,7 +71,7 @@ let resumeData = {
         "Achievements":["Produced commercials, music videos communication strategies, promotional material and original content","Designed and animated motion graphic content that integrated with clients’ branding opportunities","Coordinated with clients to generate RFPs and corresponding bids for video production requests"]
       }
     ],
-    "skillsDescription":"I've worn many hats in my career",
+    "skillsDescription":"I've worn quite a few hats in my career",
     "skills":[
       {
         "skillname":"HTML5",

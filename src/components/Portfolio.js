@@ -102,9 +102,9 @@ their browser. It has toggles to view from multiple angles and really check out 
   
 <div id="modal-10" className="modal-center mfp-hide row">
                 <div className="five columns modal-video">
-                <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://atfmakes.com/img/CDC-NIVWSplash.gif" alt="MetaverseOnDemand"></img></a>
+                <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://atfmakes.com/img/CDC-NIVWSplash.gif" alt="CDC #FightFlu Gifs"></img></a>
                 </div>
-                <h3 className="video-text">MetaverseOnDemand<span className="modal-links"> • <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer">link</a></span></h3>
+                <h3 className="video-text">#GetAFluVax<span className="modal-links"> • <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer">link</a></span></h3>
                 
 <p>This series of GIFS is a Hermes Award winning campaign I developed for the CDC while I was at Westat. These animated infographics were created as evergreen material to use every flu season and encourage key audiences to get their vaccine. I wrote and animated the gifs and used them in social and paid display marketing campaigns we ran for the client. See the collection <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer">here</a>.</p>
                 </div>
