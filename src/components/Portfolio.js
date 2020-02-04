@@ -48,7 +48,7 @@ export default class Porfolio extends Component {
                 </div>
                 <h3 className="video-text">Memory Palace AR for AARP</h3>
                 
-<p>In this demo I created for AARP's Staying Sharp The user goes through a Memory Palace exercise (also known as <a href="https://en.wikipedia.org/wiki/Method_of_loci" target="_blank" rel="noopener noreferrer">the Method of Loci</a>) in Augmented reality. I designed and built this prototype from the ground up for Android Devices using Unity, C#, and the ARCore toolkit.</p>
+<p>In this demo I created for AARP's Staying Sharp, the user goes through a Memory Palace exercise (also known as <a href="https://en.wikipedia.org/wiki/Method_of_loci" target="_blank" rel="noopener noreferrer">the Method of Loci</a>) in Augmented reality. I designed and built this prototype from the ground up for Android Devices using Unity, C#, and the ARCore toolkit.</p>
                 </div>
 
                
@@ -60,7 +60,7 @@ export default class Porfolio extends Component {
                 
 <p>This is an experiment I built using A-Frame, AR.js and the Google Poly API. It allows users
 to search the large library of Google Poly models and immediately view them in AR from
-their browser. It has toggles to view from multiple angles and really check out details, the option to resize objects to make them larger than life, and a lot of fun models from talented artists around the world. See my <a href="https://medium.com/@atyreefinch/metaverse-on-demand-using-googles-poly-api-ar-js-to-search-render-models-instantly-in-ar-e95b5145ed9e" target="_blank" rel="noopener noreferrer">blog post</a> for more about it, instructions on how it works and a link to check it out!</p>
+their browser. It has toggles to view from multiple angles and really check out details, an option to resize objects to make them larger than life, and a lot of fun models from talented artists around the world. See my <a href="https://medium.com/@atyreefinch/metaverse-on-demand-using-googles-poly-api-ar-js-to-search-render-models-instantly-in-ar-e95b5145ed9e" target="_blank" rel="noopener noreferrer">blog post</a> for more about it, instructions on how it works and a link to the demo to try it yourself.</p>
                 </div>
 
                    
@@ -70,7 +70,7 @@ their browser. It has toggles to view from multiple angles and really check out 
                 </div>
                 <h3 className="video-text">Martin Yan Recipe Videos<span className="modal-links"> • <a href="https://videos.aarp.org/search?q=martin%20yan&page=0" target="_blank" rel="noopener noreferrer">link</a>  </span></h3>
                 
-<p>In 2016 I produced several brain friendly recipe videos for Staying Sharp that starred celebrity Chef Martin Yan. I wrote all the recipe scripts to ensure they met our brain health science standards, communicated business requirements from the marketing team to the studio team to ensure all deliverables were met, and managed production on set along with m co-producer, Rebecca Abraham. You can check out the full series of videos <a href="https://videos.aarp.org/search?q=martin%20yan&page=0" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>In 2016 I produced several brain friendly recipe videos for Staying Sharp that starred celebrity Chef Martin Yan. I wrote all the recipe scripts to ensure they met our brain health science standards, communicated business requirements from the marketing team to the studio team to ensure all deliverables were met, and managed production on set along with my co-producer, Rebecca Abraham. You can check out the full series of videos <a href="https://videos.aarp.org/search?q=martin%20yan&page=0" target="_blank" rel="noopener noreferrer">here.</a></p>
                 </div>
 
                 <div id="modal-7" className="modal-center mfp-hide row">

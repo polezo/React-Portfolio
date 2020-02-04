@@ -2,6 +2,12 @@ import React from 'react'
 
 class Skills extends React.Component {
 
+    state = { skillsToggle:false }
+
+    toggleSkills = () => {
+        this.setState({skillsToggle: !this.state.skillsToggle})
+    }
+
     render(){
         let resumeData = this.props.resumeData;
         return (
@@ -14,22 +20,32 @@ class Skills extends React.Component {
         <div className="four columns minus-padding-l">
         
         <p className="smaller-text">
-        {`${resumeData.skillsDescription}. `}<strong className="smaller-text">See more <a href="https://atfmakes.com/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.</strong>
+        {`${resumeData.skillsDescription}. `}<strong className="smaller-text">See more on my resume <a href="https://atfmakes.com/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.</strong>
         </p>
      
      <div className="bars">
      
        <ul className="skills">
-         {
-           resumeData.skills && resumeData.skills.map((item,index) => {
-             return(
-               <li key={index}>
-               <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-               </span><em>{item.skilldisplay}</em>
-               </li>
-             )
-           })
-         }
+       {
+              !this.state.skillsToggle ? resumeData.skills.map((item) => {
+                return(
+                  <li key={item.id}>
+                  <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
+                  </span><em>{item.skilldisplay}</em>
+                  </li>
+                )
+              } 
+              ) : resumeData.skills4.map((item) => {
+                return(
+                  <li key={item.id}>
+                  <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
+                  </span><em>{item.skilldisplay}</em>
+                  </li>
+                )
+              } 
+              )
+              
+            }
      
       </ul>
      
@@ -41,21 +57,32 @@ class Skills extends React.Component {
 
         <div className="four columns minus-padding-l">
         
-          <br></br>
-          <br></br>
+        <p className="smaller-text">
+        Progress bars are <i>mostly </i>just for fun CSS shouldn't be taken <i>too</i> literally.<strong onClick={this.toggleSkills} className="smaller-text" style={{"cursor":"pointer","color":"#11ABB0"}}> Toggle Skills.</strong>
+        </p>
         
         <div className="bars">
         
           <ul className="skills">
             {
-              resumeData.skills2 && resumeData.skills2.map((item,index) => {
+              !this.state.skillsToggle ? resumeData.skills2.map((item) => {
                 return(
-                  <li key={index}>
+                  <li key={item.id}>
                   <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
                   </span><em>{item.skilldisplay}</em>
                   </li>
                 )
-              })
+              } 
+              ) : resumeData.skills3.map((item) => {
+                return(
+                  <li key={item.id}>
+                  <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
+                  </span><em>{item.skilldisplay}</em>
+                  </li>
+                )
+              } 
+              )
+              
             }
         
          </ul>

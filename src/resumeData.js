@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"atyreefinch",
     "skypeid": "atyreefinch",
-    "roleDescription": "dad, developer, creative producer, maker of internet stuff",
+    "roleDescription": "dad, developer, creative producer, writer, animator",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Over the past 8 years I have specialized in creative development, content marketing, and web production for mission driven clients like AARP and the CDC. My experience includes a proven track record of developing new campaigns, websites, videos and interactive experiences, a history of testing and refining content and campaigns to ensure they deliver industry leading results, and an MBA with a specialization in digital media management.",
+    "aboutme":"Over the past 8 years I have specialized in creative development, content marketing, web and video production for mission driven clients like AARP and the CDC. My experience includes a proven track record of developing new campaigns, websites, videos and interactive experiences, a history of testing and refining content and campaigns to ensure they deliver industry leading results, and an MBA with a specialization in digital media management.",
     "address":"Washington DC",
     "website":"https://atfmakes.com",
     "education":[
@@ -75,37 +75,90 @@ let resumeData = {
     "skills":[
       {
         "skillname":"HTML5",
-        "skilldisplay":"HTML5"
+        "skilldisplay":"HTML5",
+        "id":0
       },
       {
         "skillname":"Reactjs",
-        "skilldisplay":"Reactjs"
+        "skilldisplay":"Reactjs",
+        "id":1
       },
       {
         "skillname":"Unity",
-        "skilldisplay":"Unity"
+        "skilldisplay":"Unity",
+        "id":2
       },
       {
         "skillname":"CSharp",
-        "skilldisplay":"C#"
+        "skilldisplay":"C#",
+        "id":3
       },
     ],
     "skills2":[
       {
-        "skillname":"CreativeSuite",
-        "skilldisplay":"Adobe Creative Suite"
+        "skillname":"Csuite",
+        "skilldisplay":"Adobe Creative Suite",
+        "id":4
       },
       {
-        "skillname":"SEO",
-        "skilldisplay":"Content Marketing"
+        "skillname":"Seoan",
+        "skilldisplay":"Content Marketing",
+        "id":5
       },
       {
         "skillname":"Production",
-        "skilldisplay":"Creative Production"
+        "skilldisplay":"Creative Production",
+        "id":6
       },
       {
         "skillname":"HatWearing",
-        "skilldisplay":"Hat Wearing"
+        "skilldisplay":"Hat Wearing",
+        "id":7
+      },
+    ],
+    "skills3":[
+      {
+        "skillname":"Bbq",
+        "skilldisplay":"BARBECUING",
+        "id":8
+      },
+      {
+        "skillname":"Kidsbook",
+        "skilldisplay":"DOING CHILDREN'S BOOK VOICES",
+        "id":9
+      },
+      {
+        "skillname":"Golf",
+        "skilldisplay":"GOLF",
+        "id":10
+      },
+      {
+        "skillname":"Trombone",
+        "skilldisplay":"Trombone",
+        "id":11
+      },
+      
+    ],
+    "skills4":[
+      {
+        "skillname":"RoR",
+        "skilldisplay":"Ruby on Rails",
+        "id":12
+      },
+      {
+        "skillname":"git",
+        "skilldisplay":"git",
+        "id":13
+      },
+      {
+        "skillname":"MarioKart",
+        "skilldisplay":"Mario Kart",
+        "id":14
+      },
+      {
+        "skillname":"smashbros",
+        "skilldisplay":"Super Smash Bros",
+        "id":15
       },
     ],
     "portfolio":[
@@ -116,7 +169,7 @@ let resumeData = {
       },
       {
         "name":"ReactToWork",
-        "description":"A Job Board for React Engineers, built with React",
+        "description":"A Job Board for React Engineers, Built with React",
         "imgurl":"https://atfmakes.com/img/ReactToWorkSplash2.jpg"
       },
       {
@@ -126,17 +179,17 @@ let resumeData = {
       },
       {
         "name":"NumberCommander",
-        "description":"A Math Game for Elementary Age Kids Built with ThreeJS",
+        "description":"A Math Game for Elementary Age Kids, Built with ThreeJS",
         "imgurl":"https://atfmakes.com/img/NumberCommanderSplash2.jpg"
       },
       {
         "name":"MemoryPalace AR",
-        "description":"An Augmented Reality Memory Game Prototype for AARP, built in Unity",
+        "description":"An Augmented Reality Memory Game Prototype for AARP, Built in Unity",
         "imgurl":"https://atfmakes.com/img/MemoryPalaceSplash2.jpg"
       },
       {
         "name":"MetaverseOnDemand",
-        "description":"An AR Search Engine for Google Poly Models",  
+        "description":"An AR Search Engine for Google Poly Models, Built with A-Frame and AR.js",  
         "imgurl":"https://atfmakes.com/img/MetaVerseARSplash2.jpg"
       },
       {
@@ -146,22 +199,22 @@ let resumeData = {
       },
       {
         "name":"JetShare Explainer",
-        "description":"An Explainer Animation for JetShare",
+        "description":"An Animated Explainer for JetShare",
         "imgurl":"https://atfmakes.com/img/JetShareSplash.jpg"
       },
       {
         "name":"Blue Demon Mask",
-        "description":"An Instagram AR Effect",
+        "description":"An Instagram AR Effect, Built with Spark AR and Javascript",
         "imgurl":"https://atfmakes.com/img/FlameDemonSplash.jpg"
       },
       {
         "name":"Bolt Pattern Pro",
-        "description":"A Commercial for the Bolt Patter Pro. Animated in After Effects",
+        "description":"A Commercial for the Bolt Patter Pro",
         "imgurl":"https://atfmakes.com/img/BoltPatternSplash.jpg"
       },
       {
         "name":"CDC Motion Infographics",
-        "description":"An Award Winning Series of Gifs for CDC",
+        "description":"An Award Winning Series of GIFs for the CDC",
         "imgurl":"https://atfmakes.com/img/CDC-NIVWSplash.gif"
       },
       {
