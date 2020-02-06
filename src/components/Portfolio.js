@@ -5,7 +5,7 @@ export default class Porfolio extends Component {
     return (
       <section id="portfolio">
   {/* reconfigure modals to work with the resume jsondata and a .map */}
-      <div id="modal-1" className="modal-center mfp-hide row">
+      <div id="modal-0" className="modal-center mfp-hide row">
                 <div className="five columns modal-video">
                 <a href="https://atfmakes.com/reacttowork/" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://atfmakes.com/img/ReactToWorkSplash2.jpg" alt="ReactToWork"></img></a>
                 </div>
@@ -15,7 +15,7 @@ export default class Porfolio extends Component {
                 
                 </div>
 
-                <div id="modal-0" className="modal-center mfp-hide row">
+                <div id="modal-1" className="modal-center mfp-hide row">
                 <div className="five columns modal-video">
                 <iframe title="LetterLagoon Video" width="100%" height="100%" src="https://www.youtube.com/embed/MUpAzyjMhyA" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowfullscreen"></iframe>
                 </div>
@@ -104,7 +104,7 @@ their browser. It has toggles to view from multiple angles and really check out 
                 <div className="five columns modal-video">
                 <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://atfmakes.com/img/CDC-NIVWSplash.gif" alt="CDC #FightFlu Gifs"></img></a>
                 </div>
-                <h3 className="video-text">#GetAFluVax<span className="modal-links"> • <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer">link</a></span></h3>
+                <h3 className="video-text">#GetAFluVax GIFs<span className="modal-links"> • <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer">link</a></span></h3>
                 
 <p>This series of GIFS is a Hermes Award winning campaign I developed for the CDC while I was at Westat. These animated infographics were created as evergreen material to use every flu season and encourage key audiences to get their vaccine. I wrote and animated the gifs and used them in social and paid display marketing campaigns we ran for the client. See the collection <a href="https://www.cdc.gov/flu/resource-center/freeresources/graphics/animated-images.htm" target="_blank" rel="noopener noreferrer">here</a>.</p>
                 </div>

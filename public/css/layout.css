@@ -355,13 +355,13 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: git 2s ease;
    -webkit-animation: git 2s ease;
 }
-.mariokart {
-   width: 90%;
+.projectmanagement {
+   width: 95%;
    -moz-animation: mariokart 2s ease;
    -webkit-animation: mariokart 2s ease;
 }
 .smashbros {
-   width: 75%;
+   width: 90%;
    -moz-animation: smashbros 2s ease;
    -webkit-animation: smashbros 2s ease;
 }
@@ -439,11 +439,18 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .smaller-text {
-   font-size: .93em;
+   font-size: 1.1em;
 }
 
+
+  
+
 .smaller-text2 {
-   font-size: .85em;
+   font-size: .76em;
+}
+
+.smaller-text3 {
+   font-size: 1em;
 }
 
 @-moz-keyframes csuite {
@@ -511,12 +518,12 @@ ul#nav li.current a { color: #F06000; }
 
  @-moz-keyframes mariokart {
    0%   { width: 0px;  }
-   100% { width: 90%;  }
+   100% { width: 95%;  }
  }
  
  @-moz-keyframes smashbros {
    0%   { width: 0px;  }
-   100% { width: 75%;  }
+   100% { width: 90%;  }
  }
 
  @-webkit-keyframes ror {
@@ -530,12 +537,12 @@ ul#nav li.current a { color: #F06000; }
 
  @-webkit-keyframes mariokart {
    0%   { width: 0px;  }
-   100% { width: 90%;  }
+   100% { width: 95%;  }
  }
  
  @-webkit-keyframes smashbros {
    0%   { width: 0px;  }
-   100% { width: 75%;  }
+   100% { width: 90%;  }
  }
 
 @-webkit-keyframes reactjs {

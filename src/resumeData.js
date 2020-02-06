@@ -124,7 +124,7 @@ let resumeData = {
       },
       {
         "skillname":"Kidsbook",
-        "skilldisplay":"DOING CHILDREN'S BOOK VOICES",
+        "skilldisplay":"CHILDREN'S BOOK VOICES",
         "id":9
       },
       {
@@ -151,8 +151,8 @@ let resumeData = {
         "id":13
       },
       {
-        "skillname":"MarioKart",
-        "skilldisplay":"Mario Kart",
+        "skillname":"ProjectManagement",
+        "skilldisplay":"Project Management",
         "id":14
       },
       {
@@ -163,14 +163,14 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"LetterLagoon",
-        "description":"A Spelling and Phonics iOS App Built with React Native",  
-        "imgurl":"https://atfmakes.com/img/LetterLagoonSplash.jpg"
-      },
-      {
         "name":"ReactToWork",
         "description":"A Job Board for React Engineers, Built with React",
         "imgurl":"https://atfmakes.com/img/ReactToWorkSplash2.jpg"
+      },
+      {
+        "name":"LetterLagoon",
+        "description":"A Spelling and Phonics iOS App Built with React Native",  
+        "imgurl":"https://atfmakes.com/img/LetterLagoonSplash.jpg"
       },
       {
         "name":"BrewQueue",

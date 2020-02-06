@@ -20,7 +20,7 @@ class Skills extends React.Component {
         <div className="four columns minus-padding-l">
         
         <p className="smaller-text">
-        {`${resumeData.skillsDescription}. `}<strong className="smaller-text">See more on my resume <a href="https://atfmakes.com/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.</strong>
+        {`${resumeData.skillsDescription}. `}<strong className="smaller-text4">See more on my <a href="https://atfmakes.com/resume.pdf" target="_blank" rel="noopener noreferrer">full resume</a>.</strong>
         </p>
      
      <div className="bars">
@@ -58,7 +58,7 @@ class Skills extends React.Component {
         <div className="four columns minus-padding-l">
         
         <p className="smaller-text2">
-        Note: Progress bars are <i>in-part </i> an excuse for some fun CSS--not be taken <i>100%</i> literally :-P. <strong onClick={this.toggleSkills} className="smaller-text2" style={{"cursor":"pointer","color":"#11ABB0"}}> Toggle Skills</strong>  
+        <strong onClick={this.toggleSkills} className="smaller-text3" style={{"cursor":"pointer","color":"#11ABB0"}}> Toggle Skills.</strong>  <strong className="smaller-text3">Note: </strong>Progress bars are <i>in-part </i> just an excuse for fun CSS--not to be taken <i>100%</i> literally 😛
         </p>
         
         <div className="bars">
