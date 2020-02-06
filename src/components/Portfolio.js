@@ -29,7 +29,7 @@ export default class Porfolio extends Component {
                 <div className="five columns modal-video">
                 <iframe title="BrewQueue Video" width="100%" height="100%" src="https://www.youtube.com/embed/qxlLTEEbWWc" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowfullscreen"></iframe>
                 </div>
-                <h3 className="video-text">BrewQueue<span className="modal-links"> • <a href="https://github.com/polezo/NumberCommander" target="_blank" rel="noopener noreferrer">github</a></span></h3>
+                <h3 className="video-text">BrewQueue<span className="modal-links"> • <a href="https://github.com/polezo/brewQueue" target="_blank" rel="noopener noreferrer">github</a></span></h3>
                 <p>I built this as a part of Flatiron School with my friend <a href="https://sergioaperez.com/" target="_blank" rel="noopener noreferrer">Sergio Perez</a> (who narrates this video). It was an experiment to see how robust a site we could make without JS. We tapped the OpenBreweryDB API for breweries around the country for users to visit and rate. Designed from scratch and styled using Bootstrap and custom CSS, users can save their favorite breweries, meet beer fans who share their tastes and more.</p> 
                 </div>
 
